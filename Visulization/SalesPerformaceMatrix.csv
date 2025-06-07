@@ -1,0 +1,4 @@
+store_name,city,mountain_bikes_revenue,road_bikes_revenue,electric_bikes_revenue,cruisers_revenue,mountain_bikes_units,road_bikes_units,total_store_revenue,total_orders,unique_customers
+Baldwin Bikes,Baldwin,1724195.573,930798.9833,532980.0072,621618.6083,1105,313,4701209.566,1019,1019
+Santa Cruz Bikes,Santa Cruz,498375.7165,216271.5192,137629.1374,155282.0922,337,78,1255491.649,284,284
+Rowlett Bikes,Rowlett,263848.975,180085.1374,62884.6005,89623.7018,165,58,705914.0289,142,142
