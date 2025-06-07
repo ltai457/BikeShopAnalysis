@@ -44,23 +44,3 @@ Business Intelligence Applications
 👥 Staff Performance evaluation and productivity metrics
 
 
-📁 Repository Structure
-📦 Advanced-SQL-Portfolio
-├── 📄 README.md                          # Project overview and documentation
-├── 📂 sql-queries/
-│   ├── 📄 01-basic-analysis.sql           # Foundation queries and data exploration
-│   ├── 📄 02-advanced-techniques.sql      # Complex analytical queries
-│   └── 📄 03-csv-exports.sql             # Data preparation for visualization
-├── 📂 data/
-│   ├── 📄 orders.csv                      # Source data files
-│   ├── 📄 customers.csv
-│   └── 📄 [additional CSV files]
-├── 📂 visualizations/
-│   ├── 📄 monthly_revenue.csv             # Processed data for dashboards
-│   ├── 📄 customer_segments.csv
-│   └── 📄 [visualization datasets]
-├── 📂 dashboard-screenshots/
-│   ├── 🖼️ executive-overview.png          # Tableau dashboard screenshots
-│   ├── 🖼️ customer-analytics.png
-│   └── 🖼️ inventory-management.png
-└── 📄 LICENSE                            # MIT License
